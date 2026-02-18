@@ -1,0 +1,1 @@
+# Implemente uma função que encontre o índice de um elemento em uma lista ordenada de 1 milhão de itens. Meça o tempo comparando com uma busca linear comum.
